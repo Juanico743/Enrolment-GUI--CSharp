@@ -1,0 +1,12 @@
+C:\Users\vince\source\repos\Enrollment\Enrollment\bin\Debug\Enrollment.exe.config
+C:\Users\vince\source\repos\Enrollment\Enrollment\bin\Debug\Enrollment.exe
+C:\Users\vince\source\repos\Enrollment\Enrollment\bin\Debug\Enrollment.pdb
+C:\Users\vince\source\repos\Enrollment\Enrollment\bin\Debug\Guna.UI2.dll
+C:\Users\vince\source\repos\Enrollment\Enrollment\obj\Debug\Enrollment.csprojAssemblyReference.cache
+C:\Users\vince\source\repos\Enrollment\Enrollment\obj\Debug\Enrollment.Properties.Resources.resources
+C:\Users\vince\source\repos\Enrollment\Enrollment\obj\Debug\Enrollment.csproj.GenerateResource.cache
+C:\Users\vince\source\repos\Enrollment\Enrollment\obj\Debug\Enrollment.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\Enrollment\Enrollment\obj\Debug\Enrollment.csproj.CopyComplete
+C:\Users\vince\source\repos\Enrollment\Enrollment\obj\Debug\Enrollment.exe
+C:\Users\vince\source\repos\Enrollment\Enrollment\obj\Debug\Enrollment.pdb
+C:\Users\vince\source\repos\Enrollment\Enrollment\obj\Debug\Enrollment.ENROLL.resources
