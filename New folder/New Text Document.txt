@@ -1,0 +1,68 @@
+FORM1 SIZE: 871, 521
+3600
+
+
+
+ 0 , 319
+147, 95
+147, 414
+147, 733
+147, 1052
+239, 1205 ---- 477, 1205
+
+
+239, 414 ---- 477, 414
+
+
+// Set all value going to use                                                                                     
+// Set the COST PER UNIT                                                                                          
+//                                                                                                                
+// Set FEES as Dictionary                                                                                         
+// 1. LABORATORY FEE with the value of ₱ 6504.00                                                                  
+// 2. REGISTRAR CARD with the value of ₱ 1463.35                                                                  
+// 3. PUBLICATION??? with the value of ₱ 216.80                                                                   
+// 4. STUDENT COUNCIL with the value of ₱ 500.00                                                                  
+// 5. STUDENT ID with the value of ₱ 108.40                                                                       
+// 6. MISCELLANEOUS with the value of ₱ 7571.80                                                                   
+//                                                                                                                
+// Set SCHOLARSHIP as Dictionary                                                                                  
+// 1. NON-SCHOLAR with the value of 0%                                                                            
+// 2. FULL-SCHOLAR with the value of 100%                                                                         
+// 3. PARTIAL-SCHOLAR with the value of 50%                                                                       
+//                                                                                                                
+// Set YEAR LEVEL as List                                                                                         
+// 1. 1st Year                                                                                                    
+// 2. 2nd Year                                                                                                    
+// 3. 3rd Year                                                                                                    
+// 4. 4th Year                                                                                                    
+// 5. 5th Year                                                                                                    
+//                                                                                                                
+// Create a container for a selected FEES and SCHOLARSHIP                                                         
+//                                                                                                                
+// Get the STUDENT NAME                                                                                           
+//                                                                                                                
+// Get the student UNITS ENROLLED                                                                                 
+//                                                                                                                
+// Compute for the TOTAL UNIT in this formula:                                                                    
+// TOTAL UNITS = ( UNITS ENROLLED *  COST PER UNIT)                                                               
+//                                                                                                                
+// Get the student YEAR LEVEL as COMBO BOX with                                                                   
+// Display all the choices for the User                                                                           
+// Ask the user to choose from 1 to 5 only                                                                        
+//                                                                                                                
+// Get the FEES as a CHECKBOX                                                                                     
+// Display all the choices for the User                                                                           
+// Ask the user to choose from 1 to 6 only and type "DONE" to stop the Checkbox loop                              
+// Set the all chosen FEES and add their value as TOTAL FEES                                                      
+//                                                                                                                
+// Get the SCHOLARSHIP GRANT as RADIO BUTTON                                                                      
+// Display all the choices for the User                                                                           
+// Ask the user to choose from 1 to 3 only and type "DONE" to stop the Checkbox loop                              
+// Set the chosen SCHOLARSHIP GRANT value as SCHOLARSHIP                                                          
+//                                                                                                                
+// Computer for TOTAL AMOUNT with this computation:                                                               
+// TOTAL AMOUNT = ( TOTAL UNITS + TOTAL FEES ) - (( TOTAL UNITS + TOTAL FEES ) / SCHOLARSHIP )                    
+//                                                                                                                
+// Print TOTAL AMOUNT                                                                                             
+// Stop the program                                                                                               
+//                                                                                                                
